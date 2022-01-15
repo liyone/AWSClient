@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "awsAPI",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\Yang Li\\Desktop\\GIT\\AWSClient\\awsclient\\amplify\\backend\\api\\awsAPI\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 364,
+      "apiKeyExpirationDate": "2023-01-14T15:19:45.119Z",
+      "keyDescription": "what does this even do"
+    },
+    "conflictResolution": {
+      "defaultResolutionStrategy": {
+        "type": "AUTOMERGE"
+      }
+    }
+  }
+}
